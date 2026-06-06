@@ -76,7 +76,6 @@ class Calculator extends StatelessWidget {
                         Container(
                           height: 50,
                           width: 300,
-                  
                           decoration:BoxDecoration(
                             gradient: LinearGradient(colors: [
                               Colors.orangeAccent,Colors.yellow,
